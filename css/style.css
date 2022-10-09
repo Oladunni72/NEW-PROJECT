@@ -11,5 +11,31 @@ body{
  height: 100vh;
  background-size: cover;
  background-position:center ;
+
  
+}
+#opinions .button{
+   border: 1px solid;
+   padding: 10px 20px;
+   margin-top: 10px;
+   font-size: large;
+   border-radius: 10px;
+   color: black;
+   border-top: 10px;
+
+
+}
+#opinion h1{
+    font-size: larger;
+    padding-left: 3cm;
+    padding-right: 3cm;
+    padding-top: 2cm;
+
+}
+#opinions p{
+    font-size: large;
+    padding-left: 3cm;
+    padding-right: 3cm;
+    padding-top: 1cm;
+
 }
