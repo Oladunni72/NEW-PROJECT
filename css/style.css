@@ -1,0 +1,15 @@
+body{
+ margin:0;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ font-size: 17px;
+ color: brown
+ line 1px;
+}
+
+#opinions{
+ background-image:url(../IMG.CO/pexels-pixabay-36717.jpg);   
+ height: 100vh;
+ background-size: cover;
+ background-position:center ;
+ 
+}
